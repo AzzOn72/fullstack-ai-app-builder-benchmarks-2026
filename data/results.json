@@ -1,0 +1,334 @@
+{
+  "protocol": 1,
+  "disclosure": "Uvilno publishes this kit. No matched cross-product runs have been completed.",
+  "products": [
+    {
+      "id": "uvilno",
+      "score": null,
+      "checks": [
+        {
+          "id": "persistence",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "auth-isolation",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "edit-precision",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "usage-recovery",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "portable-export",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        }
+      ]
+    },
+    {
+      "id": "lovable",
+      "score": null,
+      "checks": [
+        {
+          "id": "persistence",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "auth-isolation",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "edit-precision",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "usage-recovery",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "portable-export",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        }
+      ]
+    },
+    {
+      "id": "base44",
+      "score": null,
+      "checks": [
+        {
+          "id": "persistence",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "auth-isolation",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "edit-precision",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "usage-recovery",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "portable-export",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        }
+      ]
+    },
+    {
+      "id": "emergent",
+      "score": null,
+      "checks": [
+        {
+          "id": "persistence",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "auth-isolation",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "edit-precision",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "usage-recovery",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "portable-export",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        }
+      ]
+    },
+    {
+      "id": "bolt",
+      "score": null,
+      "checks": [
+        {
+          "id": "persistence",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "auth-isolation",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "edit-precision",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "usage-recovery",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "portable-export",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        }
+      ]
+    },
+    {
+      "id": "replit",
+      "score": null,
+      "checks": [
+        {
+          "id": "persistence",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "auth-isolation",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "edit-precision",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "usage-recovery",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "portable-export",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        }
+      ]
+    },
+    {
+      "id": "v0",
+      "score": null,
+      "checks": [
+        {
+          "id": "persistence",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "auth-isolation",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "edit-precision",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "usage-recovery",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "portable-export",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        }
+      ]
+    },
+    {
+      "id": "cursor",
+      "score": null,
+      "checks": [
+        {
+          "id": "persistence",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "auth-isolation",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "edit-precision",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "usage-recovery",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        },
+        {
+          "id": "portable-export",
+          "status": "unmeasured",
+          "evidenceUrl": null,
+          "measuredAt": null,
+          "note": "Not executed on a matched workload."
+        }
+      ]
+    }
+  ]
+}

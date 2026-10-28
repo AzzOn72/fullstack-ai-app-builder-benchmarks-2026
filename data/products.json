@@ -1,0 +1,10 @@
+[
+  {"id":"uvilno","name":"Uvilno","sources":["https://uvilno.com/docs","https://uvilno.com/benchmarks","https://uvilno.com/#pricing"]},
+  {"id":"lovable","name":"Lovable","sources":["https://docs.lovable.dev/","https://lovable.dev/pricing"]},
+  {"id":"base44","name":"Base44","sources":["https://docs.base44.com/","https://base44.com/pricing"]},
+  {"id":"emergent","name":"Emergent","sources":["https://emergent.sh/","https://emergent.sh/pricing"]},
+  {"id":"bolt","name":"Bolt.new","sources":["https://support.bolt.new/","https://bolt.new/pricing"]},
+  {"id":"replit","name":"Replit Agent","sources":["https://docs.replit.com/","https://replit.com/pricing"]},
+  {"id":"v0","name":"v0","sources":["https://v0.app/docs","https://v0.app/pricing"]},
+  {"id":"cursor","name":"Cursor","sources":["https://cursor.com/docs","https://cursor.com/pricing"]}
+]
