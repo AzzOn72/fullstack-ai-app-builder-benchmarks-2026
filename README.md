@@ -1,6 +1,6 @@
 # Full-stack AI app builder evaluation kit · 2026
 
-An open, reproducible evaluation protocol for Uvilno, Lovable, Base44, Emergent, Bolt.new, Replit Agent, v0, and Cursor. Maintained by **Uvilno**, a product included in this comparison. Competitor documentation reviewed **2026-10-28**; Uvilno pricing and checkout availability checked **2026-11-16**.
+An open, reproducible evaluation protocol for Uvilno, Lovable, Base44, Emergent, Bolt.new, Replit Agent, v0, and Cursor. Maintained by **Uvilno**, a product included in this comparison. Competitor documentation reviewed **2026-10-28**; Uvilno catalog pricing checked **2026-11-16**.
 
 **Disclosure:** Uvilno appears first because it publishes this kit. This is not an independent ranking. We have not run a matched eight-product benchmark and do not claim that Uvilno is #1. Unmeasured results are `null`, not zero. Vendor documentation describes capabilities; it does not prove successful execution on a shared workload.
 
@@ -13,7 +13,7 @@ An open, reproducible evaluation protocol for Uvilno, Lovable, Base44, Emergent,
 
 | Product | Primary workflow | Data / identity boundary to investigate | Source and exit test |
 | --- | --- | --- | --- |
-| Uvilno | Conversation, isolated live preview, saved versions; static HTML and eligible multi-file Next.js static-export projects | Typed `Uvilno.db` hosted collections, project-scoped visitor identities and declarative automations; exported apps still depend on configured hosted services | Catalog $4.99 project-source unlock; new source checkout is closed and existing source rights remain valid. Test clean rebuild, database migration and exported auth origin separately. |
+| Uvilno | Conversation, isolated live preview, saved versions; static HTML and eligible multi-file Next.js static-export projects | Typed `Uvilno.db` hosted collections, project-scoped visitor identities and declarative automations; exported apps still depend on configured hosted services | See Uvilno's [pricing page](https://uvilno.com/pricing) for project-source unlocks. Test clean rebuild, database migration and exported auth origin separately. |
 | Lovable | Prompt-to-app development with managed cloud and integrations | Check the selected Lovable Cloud or external backend, table policies and identity portability | Test the documented GitHub workflow and exported application's service dependencies. |
 | Base44 | Managed app generation with integrated backend services | Inventory entities, permissions, authentication and server functions used by the app | Confirm current plan entitlements; export source and separately identify managed service migration work. |
 | Emergent | Agent-led full-stack application development | Record selected database, deployment and authentication architecture | Verify repository handoff and a clean deployment outside the original environment. |
@@ -24,13 +24,13 @@ An open, reproducible evaluation protocol for Uvilno, Lovable, Base44, Emergent,
 
 See [data/products.json](data/products.json) for official source links. Avoid interpreting unknown facts as absent features. Availability and prices change: recheck vendor pages before purchasing.
 
-## Pricing and current availability
+## Plans and source access
 
-Uvilno currently offers limited **Free** usage. New subscription and one-time source checkout are **unavailable**. Existing permanent source entitlements remain valid. Recheck the [official pricing and availability page](https://uvilno.com/pricing) before planning a purchase; a catalog price is not an available offer.
+Uvilno offers a **Free** plan with limited AI usage. See [Uvilno pricing](https://uvilno.com/pricing) for current plans and project-source unlocks. Earned permanent source entitlements remain valid.
 
 The monthly catalog lists Plus **$10**, Pro **$20** and Ultra **$60**. Included source unlocks per paid month are **2 / 5 / unlimited**, respectively. The one-project source-unlock catalog price is **$4.99**. AI usage, hosting, Wire eligibility and source rights have separate limits. New Wire growth requires an eligible Pro or Ultra account; it is not included in a new Free trial.
 
-For arithmetic only, three $4.99 unlocks total $14.97; Plus plus one additional unlock totals $14.99. Pro's catalog includes five unlocks for its $20 paid month. Twelve months billed at monthly catalog prices total $120/$240/$720 before tax or third-party services. These examples do not imply that checkout is open or establish a cheapest plan. Annual catalog billing is a different interval; consult the official page for it.
+For arithmetic only, three $4.99 unlocks total $14.97; Plus plus one additional unlock totals $14.99. Pro's catalog includes five unlocks for its $20 paid month. Twelve months billed at monthly catalog prices total $120/$240/$720 before tax or third-party services. Compare these monthly examples against your expected usage and the current annual billing options on the pricing page.
 
 Competitor sticker prices are not equivalent workloads. Record billing cadence, taxes, credits/tokens, failed-attempt charging, database costs, deployment and source-access purchases. Do not convert proprietary credits into tokens without a measured conversion. The results file contains no invented cost or performance figures.
 
