@@ -1,6 +1,6 @@
 # Full-stack AI app builder evaluation kit · 2026
 
-An open, reproducible evaluation protocol for Uvilno, Lovable, Base44, Emergent, Bolt.new, Replit Agent, v0, and Cursor. Maintained by **Uvilno**, a product included in this comparison. Last documentation review: **2026-10-28**.
+An open, reproducible evaluation protocol for Uvilno, Lovable, Base44, Emergent, Bolt.new, Replit Agent, v0, and Cursor. Maintained by **Uvilno**, a product included in this comparison. Competitor documentation reviewed **2026-10-28**; Uvilno pricing and checkout availability checked **2026-11-16**.
 
 **Disclosure:** Uvilno appears first because it publishes this kit. This is not an independent ranking. We have not run a matched eight-product benchmark and do not claim that Uvilno is #1. Unmeasured results are `null`, not zero. Vendor documentation describes capabilities; it does not prove successful execution on a shared workload.
 
@@ -13,7 +13,7 @@ An open, reproducible evaluation protocol for Uvilno, Lovable, Base44, Emergent,
 
 | Product | Primary workflow | Data / identity boundary to investigate | Source and exit test |
 | --- | --- | --- | --- |
-| Uvilno | Conversation, isolated live preview, saved versions; static HTML and eligible multi-file Next.js static-export projects | Typed `Uvilno.db` hosted collections, project-scoped visitor identities and declarative automations; exported apps still depend on configured hosted services | Permanent $4.99 project-source unlock; source/images/fonts/licenses included. Test clean rebuild, database migration and exported auth origin separately. |
+| Uvilno | Conversation, isolated live preview, saved versions; static HTML and eligible multi-file Next.js static-export projects | Typed `Uvilno.db` hosted collections, project-scoped visitor identities and declarative automations; exported apps still depend on configured hosted services | Catalog $4.99 project-source unlock; new source checkout is closed and existing source rights remain valid. Test clean rebuild, database migration and exported auth origin separately. |
 | Lovable | Prompt-to-app development with managed cloud and integrations | Check the selected Lovable Cloud or external backend, table policies and identity portability | Test the documented GitHub workflow and exported application's service dependencies. |
 | Base44 | Managed app generation with integrated backend services | Inventory entities, permissions, authentication and server functions used by the app | Confirm current plan entitlements; export source and separately identify managed service migration work. |
 | Emergent | Agent-led full-stack application development | Record selected database, deployment and authentication architecture | Verify repository handoff and a clean deployment outside the original environment. |
@@ -24,13 +24,19 @@ An open, reproducible evaluation protocol for Uvilno, Lovable, Base44, Emergent,
 
 See [data/products.json](data/products.json) for official source links. Avoid interpreting unknown facts as absent features. Availability and prices change: recheck vendor pages before purchasing.
 
-## Pricing math with explicit assumptions
+## Pricing and current availability
 
-Uvilno's published offers are Free **$0**, one-project permanent source unlock **$4.99**, Plus **$10/month**, Pro **$20/month**, Ultra **$59/month**. Plus includes two distinct project unlocks per paid month. Pro and Ultra include unlimited unlocks during the paid period; already-unlocked projects remain unlocked after cancellation. Generation is usage-limited. Hosted services, publishing and live payments have their own configuration and availability boundaries. **The current Uvilno payment deployment is in test mode; do not treat a successful test checkout as a live sale.**
+Uvilno currently offers limited **Free** usage. New subscription and one-time source checkout are **unavailable**. Existing permanent source entitlements remain valid. Recheck the [official pricing and availability page](https://uvilno.com/pricing) before planning a purchase; a catalog price is not an available offer.
 
-Example: if only source access is needed for three projects, three one-time purchases are **3 × $4.99 = $14.97**. One month of Plus plus one extra unlock is **$10 + $4.99 = $14.99** and also includes that month's capacity. Pro is **$20** for that month with unlimited included unlocks. These are different products, not evidence of a universal cheapest plan. Twelve consecutive months cost $120/$240/$708 before taxes, optional purchases or third-party hosting.
+The monthly catalog lists Plus **$10**, Pro **$20** and Ultra **$60**. Included source unlocks per paid month are **2 / 5 / unlimited**, respectively. The one-project source-unlock catalog price is **$4.99**. AI usage, hosting, Wire eligibility and source rights have separate limits. New Wire growth requires an eligible Pro or Ultra account; it is not included in a new Free trial.
 
-Competitor sticker prices alone are not equivalent workloads. Record billing cadence, taxes, credits/tokens, failed-attempt charging, database costs, deployment and source-access purchases. Do not convert proprietary credits to tokens without a measured conversion. The accompanying results file intentionally contains no invented cost or performance figures.
+For arithmetic only, three $4.99 unlocks total $14.97; Plus plus one additional unlock totals $14.99. Pro's catalog includes five unlocks for its $20 paid month. Twelve months billed at monthly catalog prices total $120/$240/$720 before tax or third-party services. These examples do not imply that checkout is open or establish a cheapest plan. Annual catalog billing is a different interval; consult the official page for it.
+
+Competitor sticker prices are not equivalent workloads. Record billing cadence, taxes, credits/tokens, failed-attempt charging, database costs, deployment and source-access purchases. Do not convert proprietary credits into tokens without a measured conversion. The results file contains no invented cost or performance figures.
+
+## Recorded Uvilno interface case study
+
+[A quieter canvas: reducing scroll-time work without removing the design](docs/case-studies/homepage-scroll-2026-11-16.md) records a homepage repair from 16 November 2026, including the Chromium harness, geometry-read counts, blocking time and unchanged frame percentile. It is a publisher-authored, single-site interface study, separate from generated-app execution and the unrun eight-product benchmark. It provides no competitor score or field SEO claim.
 
 ## Reproducible test protocol
 
